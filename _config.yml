@@ -1,20 +1,4 @@
-name: KL-PHOTO
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.5573551966808736
-title: 'Kristian Lund '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#1f191a'
@@ -26,4 +10,20 @@ color:
   lightness: 0
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: KL-PHOTO
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Kristian Lund '
 purpose: []
