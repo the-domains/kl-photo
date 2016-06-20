@@ -1,0 +1,28 @@
+name: KL-PHOTO
+favicon: null
+layout_spectrum: 0.44584576319903135
+typography_spectrum: 0.5573551966808736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.008454552385956049
+  lightness: 0.5675847709644586
+  saturation: 0.4909376371651888
+  rhythmicContrast: 0.7372738150879741
+purpose: []
